@@ -5,6 +5,9 @@
 ## Testing Bigquery Handler with [Dataset Name](URL to the Dataset)
 
 **1. Testing CREATE DATABASE**
+![Capture2](https://github.com/fkamau1/mindsdb/assets/70659811/8893dc37-72aa-4459-a875-52c9eafd2b0c)
+![Capture1](https://github.com/fkamau1/mindsdb/assets/70659811/0d29f57b-7193-4c7a-8017-9cca5916e2f4)
+
 
 ```
 COMMAND THAT YOU RAN TO CREATE DATABASE.
@@ -32,6 +35,7 @@ COMMAND THAT YOU RAN TO DO A SELECT FROM.
 
 Drop a remark based on your observation.
 - [ ] Works Great 💚 (This means that all the steps were executed successfuly and the expected outputs were returned.)
-- [ ] There's a Bug 🪲 [Issue Title](URL To the Issue you created) ( This means you encountered a Bug. Please open an issue with all the relevant details with the Bug Issue Template)
+- [x] There's a Bug 🪲 [Unable to connect to db with google bigquery handler](https://github.com/mindsdb/mindsdb/issues/6984) ( This means you encountered a Bug. Please open an issue with all the relevant details with the Bug Issue Template)
+
 
 ---
